@@ -1,25 +1,31 @@
 # My GitHub Website
-<nav>
-	<b><a href="index.html">Home</a>&nbsp; 
-	<a href="band.html">Services</a>&nbsp;
-	<a href="contact.html">Contact</a>
-</b>
-</nav>
-
-Chapter 4
-
-HoP
 <p>
-  <a href="band.html">Band webpage</a> 
+	<a href="index.html">Home</a>&nbsp; 
 </p>
-Chapter 5
+<p>
+	<a href="https://plus.pearson.com/products/cb1e3f4c-3b92-4637-85b8-e90348551bb0/pages/urn:pearson:entity:8de694f0-be8c-47c2-af07-a5bc8700e16f?userPreferredType=read">Chapter 4</a>
+</p>
+	<a href="https://plus.pearson.com/products/cb1e3f4c-3b92-4637-85b8-e90348551bb0/pages/urn:pearson:entity:04e6d944-f833-46b5-87aa-0f352ce7cc9c?userPreferredType=read">Chapter 5</a>
+</p>
+# HoP 1
 
-HoP
+# HoP 2
+<p>
+	<a href="embedded1.html">Embedded1</a>
+</p>
+<p>
+	<a href="external">External</a>
+</p>
+# HoP 3
 
-Hop 1
-
-Hop 2
-
-Assignment
-
-Assignment 1
+# Assignment 1
+<p>
+  	<a href="band.html">Band webpage</a> 
+</p>
+# Assignment 2
+ <p>
+	<a href="inline.html">Inline</a>
+</p>
+<p>
+	<a href="advantages2.html">Advantages2</a>
+<p>
