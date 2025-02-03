@@ -1,7 +1,4 @@
 # My GitHub Website
-<p>
-	<a href="index.html">Home</a>&nbsp; 
-</p>
 
 # Web Development and Design Textbook Chapters:
 <p>
