@@ -3,7 +3,9 @@
 Chapter 4
 
 HoP
-
+<p>
+  <a href="band.html">Band webpage</a> 
+</p>
 Chapter 5
 
 HoP
