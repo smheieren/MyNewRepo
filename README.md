@@ -1,4 +1,10 @@
-# My Website
+# My GitHub Website
+<nav>
+	<b><a href="index.html">Home</a>&nbsp; 
+	<a href="band.html">Services</a>&nbsp;
+	<a href="contact.html">Contact</a>
+</b>
+</nav>
 
 Chapter 4
 
